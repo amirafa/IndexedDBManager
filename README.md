@@ -1,7 +1,3 @@
-Sure! Here's the translation of your documentation into English:
-
----
-
 # **IndexedDBManager Documentation**
 
 ## **Overview**
