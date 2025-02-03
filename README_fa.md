@@ -34,7 +34,7 @@ const dbManager = new IndexedDBManager("LibraryDB", "books", fields);
   
 ### Example:
 ```javascript
-dbManager.openDB(2)  // باز کردن دیتابیس با نسخه 2
+dbManager.openDB(1)  // باز کردن دیتابیس با نسخه 1
   .then((message) => console.log(message))
   .catch((error) => console.error(error));
 ```
